@@ -33,3 +33,25 @@ public String getFuelType(){
 public void setfuelType(String fuelType){
 
 this.fuelType = fuelType;
+
+public String getColor(String color){
+    return color;
+    }
+public void setColor(String color){
+this.color = color;
+}
+
+public Car(String type, int noSeats, String){
+this.type = type;
+        this.noSeats = noSeats;
+        this.fuelType = fuelType;
+        this.color = color;
+
+
+        public Car ()
+
+        this.type = "Toyota";
+        this.noSeats = 5;
+        this.fuelType = "Diesel"
+                this.color = "Pink"
+}
