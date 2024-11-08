@@ -2,7 +2,11 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/MidTermExam_202411/Assignment/Assignment.iml" filepath="$PROJECT_DIR$/MidTermExam_202411/Assignment/Assignment.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/Lydra_Idrizi_5918.iml" filepath="$PROJECT_DIR$/.idea/Lydra_Idrizi_5918.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidTermExam_202411/MidTermExam_202411.iml" filepath="$PROJECT_DIR$/MidTermExam_202411/MidTermExam_202411.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidTermExam_202411/assignment3/assignment3.iml" filepath="$PROJECT_DIR$/MidTermExam_202411/assignment3/assignment3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidTermExam_202411/assignment3/assignment3./assignment3..iml" filepath="$PROJECT_DIR$/MidTermExam_202411/assignment3/assignment3./assignment3..iml" />
       <module fileurl="file://$PROJECT_DIR$/exercise02/exercise 1/exercise 1.iml" filepath="$PROJECT_DIR$/exercise02/exercise 1/exercise 1.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercise.001/exercise.001.iml" filepath="$PROJECT_DIR$/exercise.001/exercise.001.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercise.01/exercise.01.iml" filepath="$PROJECT_DIR$/exercise.01/exercise.01.iml" />
@@ -10,6 +14,7 @@
       <module fileurl="file://$PROJECT_DIR$/exercise02/exercise021.iml" filepath="$PROJECT_DIR$/exercise02/exercise021.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercise03/exercise031.iml" filepath="$PROJECT_DIR$/exercise03/exercise031.iml" />
       <module fileurl="file://$PROJECT_DIR$/exercise04/exercise041.iml" filepath="$PROJECT_DIR$/exercise04/exercise041.iml" />
+      <module fileurl="file://$PROJECT_DIR$/MidTermExam_202411/assignment3/main/main.iml" filepath="$PROJECT_DIR$/MidTermExam_202411/assignment3/main/main.iml" />
       <module fileurl="file://$PROJECT_DIR$/trial/trial.iml" filepath="$PROJECT_DIR$/trial/trial.iml" />
       <module fileurl="file://$PROJECT_DIR$/untitled lydra/untitled lydra1.iml" filepath="$PROJECT_DIR$/untitled lydra/untitled lydra1.iml" />
     </modules>
