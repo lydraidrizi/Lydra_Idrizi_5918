@@ -1,14 +1,31 @@
+import java.util.Scanner;
 
-public class Main {
+class ExceptionHandlingExample {
     public static void main(String[] args) {
+        Scanner scanner = new Scanner(System.in);
+        int result = 0;
 
-        System.out.printf("Hello and welcome!");
+        try {
+            System.out.print("Enter a numerator: ");
+            int numerator = scanner.nextInt();
+
+            System.out.print("Enter a denominator: ");
+            int denominator = scanner.nextInt();
 
 
-        for (int i = 1; i <= 5; i++) {
+            result = numerator / denominator;
 
+            System.out.println("Result: " + result);
+        } catch (ArithmeticException e) {
 
-            System.out.println("i = " + i);
+            System.out.println("Error: Cannot divide by zero.");
+        } catch (Exception e) {
+
+            System.out.println("An error occurred: " + e.getMessage());
+        } finally {
+
+            System.out.println("Execution completed.");
+            scanner.close();
         }
     }
 }
